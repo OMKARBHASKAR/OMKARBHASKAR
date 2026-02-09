@@ -1,106 +1,74 @@
-👋 Hi, I’m Omkar Pawar
-Data Analyst | Python • SQL • Power BI • Excel
+# Hey 👋 I'm Omkar Pawar
 
-I’m a BCA graduate focused on data analysis and business insights, not buzzwords.
-I work with real datasets to answer practical questions like what’s selling, what’s stuck, who matters, and where money is leaking.
+📊 **Data Analyst** | Python • SQL • Power BI  
+📍 India  
+🌍 Open to Work
 
-I care more about clarity, accuracy, and decision-making than fancy visuals.
+---
 
-🧠 What I Actually Do Well
+## 🛠 Tech Stack
 
-Clean messy datasets and make them usable
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
-Write SQL queries that answer business questions (not just SELECT *)
+---
 
-Analyze data using Python (Pandas, NumPy, Matplotlib, Seaborn)
+## 🚀 Projects
 
-Build Power BI dashboards with meaningful KPIs
+### 📈 Sales & Profitability Analysis  
+**Business Intelligence Project**
+- Cleaned and analyzed multi-region sales data
+- Identified top states, products, and sales channels
+- Built KPIs: Revenue, Profit, Profit Margin, AOV, Growth %
+- Designed Power BI dashboards to answer:
+  - What is selling?
+  - What is stuck in inventory?
+  - Where is profit leaking?
 
-Translate data into clear business insights
+---
 
-No fake “AI expert” claims. No shallow dashboards.
+### 📊 Business KPI Dashboard  
+**Power BI + SQL**
+- Channel-wise and month-wise performance tracking
+- Contribution analysis and trend comparison
+- Focused on decision-ready insights, not decorative charts
 
-🛠️ Skills
-Data Analysis
+---
 
-Data Cleaning & Validation
+### 🧹 Data Cleaning & Validation Pipeline  
+**Python (Pandas)**
+- Handled missing values, duplicates, and schema issues
+- Prepared datasets for analysis and BI consumption
+- Validated metrics before visualization
 
-Exploratory Data Analysis (EDA)
+---
 
-KPI Definition & Tracking
+## 🎯 What I Focus On
 
-Trend, Growth & Contribution Analysis
+- Turning raw data into **actionable insights**
+- Writing **clear SQL queries** for business questions
+- Building dashboards that **support decisions**
+- Accuracy, logic, and explainability over buzzwords
 
-Tools & Technologies
+---
 
-Python: Pandas, NumPy, Matplotlib, Seaborn
+## 📌 Currently Improving
 
-SQL: Joins, CTEs, Aggregations, Window Functions
+- Advanced SQL (CTEs, window functions)
+- Power BI DAX measures
+- Business storytelling with data
+- Industry-grade analytics projects
 
-Power BI: DAX, Measures, Dashboard Design
+---
 
-Excel: Pivot Tables, Power Query, Advanced Functions
+## 📫 Connect With Me
 
-📊 Projects (What You’ll Find Here)
-🔹 Sales & Profitability Analysis
+💼 Open to **Data Analyst / Business Analyst** roles  
+📊 Interested in real-world datasets and problem-driven analysis  
 
-Identified top-performing states, products, and channels
-
-Analyzed profit margin vs revenue traps
-
-Built dashboards answering:
-
-What is selling?
-
-What is stuck in inventory?
-
-Which customers matter?
-
-Where is profit leaking?
-
-🔹 Business KPI Dashboards
-
-Revenue, Profit, AOV, Growth %
-
-Month-over-Month & Channel-wise comparisons
-
-Clean layout focused on decision-making, not decoration
-
-🔹 Data Cleaning & Validation
-
-Duplicate detection
-
-Null handling
-
-Schema understanding (PK/FK logic)
-
-Dataset readiness for BI tools
-
-📌 How I Think (Important)
-
-Data without context is useless
-
-A chart without a question is noise
-
-If a KPI can’t drive action, it doesn’t belong on a dashboard
-
-If I can’t explain an insight in simple language, I don’t trust it.
-
-🎯 What I’m Working Towards
-
-Stronger SQL problem solving
-
-Advanced Power BI DAX
-
-Better business storytelling
-
-Industry-level data projects (sales, finance, operations)
-
-📫 Let’s Connect
-
-💼 Open to Data Analyst / Business Analyst roles
-
-📍 India
-
-📊 I prefer real datasets over toy problems
+---
 
