@@ -56,14 +56,14 @@
 
 ---
 
-## 📌 Currently Improving
+## 📌Expertise
+
 
 - Advanced SQL (CTEs, window functions)
 - Power BI DAX measures
 - Business storytelling with data
 - Industry-grade analytics projects
 
----
 
 ## 📫 Connect With Me
 
