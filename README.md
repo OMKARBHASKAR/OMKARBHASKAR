@@ -101,10 +101,13 @@ Interested in real-world datasets and problem-driven analytics.
 
 ---
 
-## ⚡ Contribution Activity (Animated)
+---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OMKARBHASKAR&hide_border=true)
+## 💬 Philosophy
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=24&duration=4000&pause=1000&color=0F172A&center=true&vCenter=true&width=750&lines=Data+is+only+valuable+when+it+changes+decisions." />
+</p>
 ---
 
 ## 📫 Connect With Me
@@ -112,6 +115,4 @@ Interested in real-world datasets and problem-driven analytics.
 - LinkedIn: (Add your LinkedIn link here)
 - Email: (Add your professional email)
 
----
 
-> “Data is only valuable when it changes decisions.”
