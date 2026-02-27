@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500" />
+</p>
+
+
 # 👋 Hi, I'm Omkar Pawar  
 
 📊 Data Analyst | Business Intelligence | SQL • Python • Power BI  
