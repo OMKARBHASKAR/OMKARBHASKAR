@@ -1,74 +1,117 @@
-# Hey 👋 I'm Omkar Pawar
+# 👋 Hi, I'm Omkar Pawar  
 
-📊 **Data Analyst** | Python • SQL • Power BI  
+📊 Data Analyst | Business Intelligence | SQL • Python • Power BI  
 📍 India  
-🌍 Open to Work
+🎯 Focused on building analytics systems that drive business decisions  
+
+---
+
+## 🔎 About Me
+
+I specialize in transforming raw, unstructured data into decision-ready insights.
+
+My approach:
+- Build clean data foundations
+- Design logical KPIs
+- Answer real business questions
+- Avoid decorative dashboards with no impact
+
+I focus on clarity, measurable insights, and business relevance.
 
 ---
 
 ## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+**Languages & Querying**
+- Python
+- SQL (Advanced: CTEs, Window Functions, Optimization)
+
+**Analytics & BI**
+- Power BI (DAX, Time Intelligence, KPI Design)
+- Excel (Advanced formulas, Pivot Tables, Data Cleaning)
+
+**Libraries**
+- Pandas
+- NumPy
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 📈 Sales & Profitability Analysis  
-**Business Intelligence Project**
-- Cleaned and analyzed multi-region sales data
-- Identified top states, products, and sales channels
-- Built KPIs: Revenue, Profit, Profit Margin, AOV, Growth %
-- Designed Power BI dashboards to answer:
-  - What is selling?
-  - What is stuck in inventory?
-  - Where is profit leaking?
+### 📈 Sales & Profitability Intelligence Dashboard  
+**Tools:** SQL + Power BI  
+
+- Analyzed multi-region sales dataset  
+- Designed KPIs: Revenue, Profit, Margin %, AOV, Growth %  
+- Identified top-performing states, products, and channels  
+- Flagged low-margin products impacting profitability  
+- Built executive-level performance dashboard  
+
+**Outcome:** Enabled data-backed product and margin decisions  
 
 ---
 
-### 📊 Business KPI Dashboard  
-**Power BI + SQL**
-- Channel-wise and month-wise performance tracking
-- Contribution analysis and trend comparison
-- Focused on decision-ready insights, not decorative charts
+### 📊 Business KPI Monitoring System  
+**Tools:** SQL + Power BI  
+
+- Channel-wise contribution analysis  
+- Month-over-month performance tracking  
+- Dynamic DAX measures for benchmarking  
+- Drill-through performance diagnostics  
+
+**Focus:** Decision support, not static reporting  
 
 ---
 
 ### 🧹 Data Cleaning & Validation Pipeline  
-**Python (Pandas)**
-- Handled missing values, duplicates, and schema issues
-- Prepared datasets for analysis and BI consumption
-- Validated metrics before visualization
+**Tools:** Python (Pandas)  
+
+- Handled missing values and duplicates  
+- Schema validation and metric verification  
+- Prepared structured datasets for BI consumption  
+- Reduced manual data cleaning effort  
 
 ---
 
-## 🎯 What I Focus On
+## 🎯 Core Strengths
 
-- Turning raw data into **actionable insights**
-- Writing **clear SQL queries** for business questions
-- Building dashboards that **support decisions**
-- Accuracy, logic, and explainability over buzzwords
+- Writing optimized SQL for complex business queries  
+- Designing meaningful KPIs  
+- Building clean and scalable Power BI dashboards  
+- Business storytelling through structured insights  
+- Data accuracy and validation mindset  
 
 ---
 
-## 📌Expertise
+## 📌 Currently Open To
 
+- Data Analyst Roles  
+- Business Analyst Roles  
+- BI Developer Opportunities  
 
-- Advanced SQL (CTEs, window functions)
-- Power BI DAX measures
-- Business storytelling with data
-- Industry-grade analytics projects
+Interested in real-world datasets and problem-driven analytics.
 
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OMKARBHASKAR&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OMKARBHASKAR&layout=compact&hide_border=true)
+
+---
+
+## ⚡ Contribution Activity (Animated)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OMKARBHASKAR&hide_border=true)
+
+---
 
 ## 📫 Connect With Me
 
-💼 Open to **Data Analyst / Business Analyst** roles  
-📊 Interested in real-world datasets and problem-driven analysis  
+- LinkedIn: (Add your LinkedIn link here)
+- Email: (Add your professional email)
 
 ---
 
+> “Data is only valuable when it changes decisions.”
