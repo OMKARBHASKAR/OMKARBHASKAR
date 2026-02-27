@@ -105,9 +105,8 @@ Interested in real-world datasets and problem-driven analytics.
 - Email: (omkarpawarmj5@gmail.com)
 
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=24&duration=4000&pause=1000&color=6D28D9&center=true&vCenter=true&width=750&lines=Data+is+only+valuable+when+it+changes+decisions." />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=26&duration=4000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=800&lines=Data+is+only+valuable+when+it+changes+decisions." />
 </p>
 
 
