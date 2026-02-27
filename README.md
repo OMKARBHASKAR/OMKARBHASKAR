@@ -93,15 +93,15 @@ Interested in real-world datasets and problem-driven analytics.
 
 ## 📫 Connect With Me
 
-- LinkedIn: (Add your LinkedIn link here)
-- Email: (Add your professional email)
+- LinkedIn: (www.linkedin.com/in/omkar-bhaskar)
+- Email: (omkarpawarmj5@gmail.com)
 
 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=24&duration=4000&pause=1000&color=6D28D9&center=true&vCenter=true&width=750&lines=Data+is+only+valuable+when+it+changes+decisions." />
 </p>
----
+
 
 
 
