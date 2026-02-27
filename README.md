@@ -2,12 +2,15 @@
   <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500" />
 </p>
 
+<h1 align="center">Hi 👋, I'm Omkar Pawar</h1>
 
-# 👋 Hi, I'm Omkar Pawar  
+<p align="center">
+  <strong>Data Analyst | SQL • Python • Power BI</strong><br>
+  📍 India  
+  🎯 Focused on building analytics systems that drive business decisions  
+</p>
 
-📊 Data Analyst | Business Intelligence | SQL • Python • Power BI  
-📍 India  
-🎯 Focused on building analytics systems that drive business decisions  
+
 
 ---
 
