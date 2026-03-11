@@ -41,6 +41,8 @@ I focus on clarity, measurable insights, and business relevance.
 **Libraries**
 - Pandas
 - NumPy
+- Matplotlib
+- Seaborn
 
 ---
 
