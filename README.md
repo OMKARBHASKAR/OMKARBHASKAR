@@ -95,16 +95,18 @@ I focus on clarity, measurable insights, and business relevance.
 
 ## 📌 Currently Open To
 
-- Data Analyst Roles  
+- Data Analyst   
 - Business Analyst Roles  
-- BI Developer Opportunities  
+- BI Developer
+- MIS Executive
+- Operation Manager 
 
 Interested in real-world datasets and problem-driven analytics.
 
 ## 📫 Connect With Me
 
 - LinkedIn: (www.linkedin.com/in/omkar-bhaskar)
-- Email: (omkarpawarmj5@gmail.com)
+- Email: (omkarbhaskarpawar@gmail.com)
 
 
 <p align="center">
